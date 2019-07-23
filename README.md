@@ -1,2 +1,2 @@
 # Dot file repo
-1. .vimrc
+1. vimrc
