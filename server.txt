@@ -1,0 +1,13 @@
+# check CUDA version
+nvcc -V
+
+# graphics card detail
+nvidia-smi
+
+#check Linux version
+lsb_release -a
+uname -a 
+
+#check python packages installed
+pip freeze
+pip list
